@@ -1,4 +1,4 @@
-# daly_task_app
+# Reminder Application
 
 A new Flutter project.
 
