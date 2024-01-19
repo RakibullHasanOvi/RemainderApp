@@ -1,6 +1,6 @@
 # Reminder Application
 
-A new Flutter project.
+Reminder application means sometimes we forget many things like birth date, anniversary date, important date which we can't remember. So, this application will provide a notification like an alarm, the current date of the original speed, so what we do, we can quickly understand.
 
 ## Getting Started
 
