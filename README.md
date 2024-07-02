@@ -1,6 +1,14 @@
 # Reminder Application
 
-Reminder application means sometimes we forget many things like birth date, anniversary date, important date which we can't remember. So, this application will provide a notification like an alarm, the current date of the original speed, so what we do, we can quickly understand.
+Reminder application means sometimes we forget many things like birth date, anniversary date, important date which we can't remember. So, this application will provide a notification like as an alarm.
+
+## Use some features (packages) from pub.dev
+
+1. Provider State Management.
+2. Hive Database.
+3. Theme changer.
+
+## ScreenShorts 
 
 ## Getting Started
 
