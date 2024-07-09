@@ -5,8 +5,9 @@ Reminder application means sometimes we forget many things like birth date, anni
 ## Use some features (packages) from pub.dev
 
 1. Provider State Management.
-2. Hive Database.
+2. Hive Database. (used for save the time, date and notes and notifications times.)
 3. Theme changer.
+5. flutter_screenutil (Responsive for all device)
 
 ## ScreenShorts 
 <p align= "center">
@@ -21,4 +22,13 @@ Reminder application means sometimes we forget many things like birth date, anni
 <img src = "https://github.com/RakibullHasanOvi/RemainderApp/assets/63429557/c46cd70b-0f15-4a0c-bc9e-4500ab9bc3ce.png" width = "200" height ="400"/>
 <img src = "https://github.com/RakibullHasanOvi/RemainderApp/assets/63429557/5081d9a6-473f-4773-898c-dac95cda93a2.png" width = "200" height ="400"/>
 </p>
-## Getting Started
+
+## Upcoming features
+
+In this application, I will add the push notification feature which will create a attention applications..
+
+## Pull request
+
+While any one wan to install app then firstly he needs to copy pull request his vs code or android studio and write some command.
+
+ 
