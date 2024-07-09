@@ -9,7 +9,8 @@ Reminder application means sometimes we forget many things like birth date, anni
 3. Theme changer.
 
 ## ScreenShorts 
-![Screenshot_1699954395](https://github.com/RakibullHasanOvi/RemainderApp/assets/63429557/537387d0-ea8a-4517-9bdb-1d907f03df4b)
+<p align = center>
+<img src="images/![Screenshot_1699954395](https://github.com/RakibullHasanOvi/RemainderApp/assets/63429557/537387d0-ea8a-4517-9bdb-1d907f03df4b)" width="200" height ="400"/>
 ![Screenshot_1699954392](https://github.com/RakibullHasanOvi/RemainderApp/assets/63429557/8c127893-35ac-430a-842f-7742a00b8819)
 ![Screenshot_1699954383](https://github.com/RakibullHasanOvi/RemainderApp/assets/63429557/f618eb85-7c9b-4f7f-a315-60196fa1e36d)
 ![Screenshot_1699954380](https://github.com/RakibullHasanOvi/RemainderApp/assets/63429557/75dca466-4b58-4162-9516-8988cfd52914)
@@ -20,6 +21,6 @@ Reminder application means sometimes we forget many things like birth date, anni
 ![Screenshot_1699954223](https://github.com/RakibullHasanOvi/RemainderApp/assets/63429557/9e156ae3-b9f7-4bdd-b0e0-62df5b14b054)
 ![Screenshot_1699954221](https://github.com/RakibullHasanOvi/RemainderApp/assets/63429557/3591f07e-6fac-460f-aadb-83733bb2ae88)
 ![Screenshot_1699954218](https://github.com/RakibullHasanOvi/RemainderApp/assets/63429557/f616316e-e62f-49f1-8744-0a8eb982e295)
-
+</p>
 
 ## Getting Started
