@@ -9,6 +9,8 @@ Reminder application means sometimes we forget many things like birth date, anni
 3. Theme changer.
 
 ## ScreenShorts 
+
+<img src = "RakibullHasanOvi/RemainderApp/assets/63429557/5081d9a6-473f-4773-898c-dac95cda93a2.png"/>
 <div style="width:60px ; height:60px">
 ![Screenshot_1699954395](https://github.com/RakibullHasanOvi/RemainderApp/assets/63429557/5081d9a6-473f-4773-898c-dac95cda93a2)
 ![Screenshot_1699954392](https://github.com/RakibullHasanOvi/RemainderApp/assets/63429557/c46cd70b-0f15-4a0c-bc9e-4500ab9bc3ce)
