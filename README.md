@@ -9,16 +9,18 @@ Reminder application means sometimes we forget many things like birth date, anni
 3. Theme changer.
 
 ## ScreenShorts 
-![Screenshot_1699954392](https://github.com/RakibullHasanOvi/RemainderApp/assets/63429557/8c127893-35ac-430a-842f-7742a00b8819 | height ="200")
-![Screenshot_1699954383](https://github.com/RakibullHasanOvi/RemainderApp/assets/63429557/f618eb85-7c9b-4f7f-a315-60196fa1e36d)
-![Screenshot_1699954380](https://github.com/RakibullHasanOvi/RemainderApp/assets/63429557/75dca466-4b58-4162-9516-8988cfd52914)
-![Screenshot_1699954331](https://github.com/RakibullHasanOvi/RemainderApp/assets/63429557/a44edf30-99de-40b0-8140-ffa904767ed6)
-![Screenshot_1699954240](https://github.com/RakibullHasanOvi/RemainderApp/assets/63429557/e083350f-c359-4a52-84e2-15952731b457)
-![Screenshot_1699954236](https://github.com/RakibullHasanOvi/RemainderApp/assets/63429557/061b2b4e-ccff-4a46-b741-2876bcbf7aed)
-![Screenshot_1699954232](https://github.com/RakibullHasanOvi/RemainderApp/assets/63429557/7b1ba874-d7da-4bbf-846b-646a66b34c0a)
-![Screenshot_1699954223](https://github.com/RakibullHasanOvi/RemainderApp/assets/63429557/9e156ae3-b9f7-4bdd-b0e0-62df5b14b054)
-![Screenshot_1699954221](https://github.com/RakibullHasanOvi/RemainderApp/assets/63429557/3591f07e-6fac-460f-aadb-83733bb2ae88)
-![Screenshot_1699954218](https://github.com/RakibullHasanOvi/RemainderApp/assets/63429557/f616316e-e62f-49f1-8744-0a8eb982e295)
+<div style="width:60px ; height:60px">
+![Screenshot_1699954395](https://github.com/RakibullHasanOvi/RemainderApp/assets/63429557/5081d9a6-473f-4773-898c-dac95cda93a2)
+![Screenshot_1699954392](https://github.com/RakibullHasanOvi/RemainderApp/assets/63429557/c46cd70b-0f15-4a0c-bc9e-4500ab9bc3ce)
+![Screenshot_1699954383](https://github.com/RakibullHasanOvi/RemainderApp/assets/63429557/4a9ee59b-8c48-43ee-83a7-111755390707)
+![Screenshot_1699954380](https://github.com/RakibullHasanOvi/RemainderApp/assets/63429557/5024a954-808f-4062-b50a-b479b91fc281)
+![Screenshot_1699954331](https://github.com/RakibullHasanOvi/RemainderApp/assets/63429557/b04bb96e-e5dd-4aae-87e7-056138628865)
+![Screenshot_1699954240](https://github.com/RakibullHasanOvi/RemainderApp/assets/63429557/78575f51-45ef-4bce-9f1e-a7dadc371fbb)
+![Screenshot_1699954236](https://github.com/RakibullHasanOvi/RemainderApp/assets/63429557/2728cb1b-7e5c-43c6-9888-d426d5b7f5ed)
+![Screenshot_1699954232](https://github.com/RakibullHasanOvi/RemainderApp/assets/63429557/ae5ff7bf-5545-45a4-9693-eb8dd74d83d1)
+![Screenshot_1699954221](https://github.com/RakibullHasanOvi/RemainderApp/assets/63429557/fe1abfaf-dd0c-4bbb-aa87-03e57e5f9ecb)
+![Screenshot_1699954218](https://github.com/RakibullHasanOvi/RemainderApp/assets/63429557/1505251f-daa6-469a-b510-8d40c1426f61)
+</div>
 
 
 ## Getting Started
