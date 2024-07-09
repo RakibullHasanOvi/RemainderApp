@@ -10,8 +10,8 @@ Reminder application means sometimes we forget many things like birth date, anni
 
 ## ScreenShorts 
 
-<img src = "github.com/RakibullHasanOvi/RemainderApp/assets/63429557/5081d9a6-473f-4773-898c-dac95cda93a2.png"/>
-<div style="width:60px ; height:60px">
+<img src = "https://github.com/RakibullHasanOvi/RemainderApp/assets/63429557/5081d9a6-473f-4773-898c-dac95cda93a2.png"/>
+
 ![Screenshot_1699954395](https://github.com/RakibullHasanOvi/RemainderApp/assets/63429557/5081d9a6-473f-4773-898c-dac95cda93a2)
 ![Screenshot_1699954392](https://github.com/RakibullHasanOvi/RemainderApp/assets/63429557/c46cd70b-0f15-4a0c-bc9e-4500ab9bc3ce)
 ![Screenshot_1699954383](https://github.com/RakibullHasanOvi/RemainderApp/assets/63429557/4a9ee59b-8c48-43ee-83a7-111755390707)
@@ -22,7 +22,7 @@ Reminder application means sometimes we forget many things like birth date, anni
 ![Screenshot_1699954232](https://github.com/RakibullHasanOvi/RemainderApp/assets/63429557/ae5ff7bf-5545-45a4-9693-eb8dd74d83d1)
 ![Screenshot_1699954221](https://github.com/RakibullHasanOvi/RemainderApp/assets/63429557/fe1abfaf-dd0c-4bbb-aa87-03e57e5f9ecb)
 ![Screenshot_1699954218](https://github.com/RakibullHasanOvi/RemainderApp/assets/63429557/1505251f-daa6-469a-b510-8d40c1426f61)
-</div>
+
 
 
 ## Getting Started
