@@ -7,7 +7,7 @@ Reminder application means sometimes we forget many things like birth date, anni
 1. Provider State Management.
 2. Hive Database. (used for save the time, date and notes and notifications times.)
 3. Theme changer.
-5. flutter_screenutil (Responsive for all device)
+5. flutter_screenutil (Responsive for all device).
 
 ## ScreenShorts 
 <p align= "center">
